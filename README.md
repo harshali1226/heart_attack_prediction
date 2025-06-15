@@ -106,13 +106,6 @@ The dataset includes 1,319 patient records with the following features:
 
 ---
 
-## Acknowledgements
-
-- Dataset: [Kaggle Heart Attack Dataset] or your provided data source
-- Project author: [Your Name or GitHub handle]
-
----
-
 **For questions or contributions, please open an issue or submit a pull request.**
 
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/31925554/c74ac98d-00e7-4846-8c5e-3f20521cd576/prediction.ipynb
